@@ -9,6 +9,8 @@ The normal image is converted into a grey scale image it's done because ML model
 ![grey](https://user-images.githubusercontent.com/92075957/174955495-d2539004-ffa5-43fe-ac02-38ab35d87da6.png) 
 # Facial recognition using haar cascade files which shows eyes face has been detected.
 ![facial](https://user-images.githubusercontent.com/92075957/174955623-d8bc3fb5-c426-4686-a123-67f58439126f.png) 
-
-
+# If both eyes and face have been recognised accurately the image will get cropped else it doesn'trecognized consider the image.
+![cropped](https://user-images.githubusercontent.com/92075957/174956557-7874a161-6554-4c45-854d-58cf4e8ab79f.png)
+# PyWavelets has been used to recognise the patterns in the cropped face
+![patterns](https://user-images.githubusercontent.com/92075957/174956671-c1011c63-f2e1-4e5f-b05d-892c8c544292.png)
 
