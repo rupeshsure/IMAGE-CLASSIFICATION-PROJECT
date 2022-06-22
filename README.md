@@ -13,4 +13,10 @@ The normal image is converted into a grey scale image it's done because ML model
 ![cropped](https://user-images.githubusercontent.com/92075957/174956557-7874a161-6554-4c45-854d-58cf4e8ab79f.png)
 # PyWavelets has been used to recognise the patterns in the cropped face
 ![patterns](https://user-images.githubusercontent.com/92075957/174956671-c1011c63-f2e1-4e5f-b05d-892c8c544292.png)
-
+The complete procedure followed was been provided in the code.
+# USER INTERFACE 
+The user intreface has developed for this project which deals in classifying the image based on his facial features. 
+![image](https://user-images.githubusercontent.com/92075957/174959546-cca97dd0-952d-4133-8ca4-ca528691a082.PNG)
+This how the intreface looks like we need to upload any image which are not in trained or in test data after uploading the image the results will be shown in below image:
+![prediction](https://user-images.githubusercontent.com/92075957/174963430-d48e47f6-e34a-4faf-a931-77e6a67613dd.PNG)
+The reults shows the propability score or accurcay of the image which means how much percentage that the uploaded image match with ML model.
